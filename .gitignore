@@ -1,0 +1,11 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore node_modules directory (if you're working with Node.js)
+node_modules/
+
+# Ignore build files (e.g., if you're building a React app)
+build/
+
+# Ignore environment files
+.env
